@@ -1,4 +1,6 @@
-## Hi there 👋
+My name is Diogo Vaz, and if you want to know more about me, visit my [webpage](https://diogolvaz.github.io/).  
+
+This is my personal GitHub account, but most of my software production is being done in my [research group](https://github.com/IntelligentSecureDistributedComputing?view_as=public).
 
 <!--
 **diogolvaz/diogolvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
